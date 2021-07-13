@@ -1,0 +1,44 @@
+-Felhasználóbarát
+-OO
+-Elemi grafika 'sprite'
+-WASD mozgás, egyéb egérhez köthető eseményvezerlők
+-Algoritmus szerinti területgenerálás vagy 10 előre definiált fájlokban
+-Időzitő, jaték kezdetétől mutatja az eltelt időt
+
+-Dokumentáció:
+    -feladat leírás
+    -elemzés
+    -UML
+    -JAVA DOC dokumentáció
+
+Maci Laci
+    -Pinknik kosarat gyűjtünk
+    -Vadőrök járőröznek víz- vagy függőlegesen
+    -Ha 1 egység távolságra kerül egy Vadőrtől akkor veszít egy életpontot
+    -Ha HP >= 1 akkor --HP és pálya elejére kerül.   HA HP == 0 akkor vége
+    
+    -Számontartjuk hány PK sikerül gyűjtenie és ha az összeset begyűjti új pályát töltünk be
+    -Ha veszít akkor felugró ablakban a nevünket megadva elmenti az eredémyünket a DBbe
+
+    -Menü: Eredmények, Új játék indítása
+
+    -Resources
+        -Yogi ✔
+        -Ranger ✔
+        -Grass ✔
+        -Mountain ✔
+        -Tree ✔
+        -Basket ✔
+
+W: 87
+A: 65
+S: 83
+D: 68
+
+-Pályák PIPA
+-Ranger mozgás PIPA
+-Jatékos élete PIPA
+-Kövi pálya betöltése PIPA
+-Timer PIPA
+-DB PIPA
+Dokumentáció
